@@ -1,0 +1,125 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Cabin", "Lobster";
+    background-color: #ffffff;
+}
+
+/* configuracion de nanbar*/
+.navbar {
+    background-color: #373A3C;
+    
+}
+
+.navbar-brand h1 {
+    font-family: "Lobster";
+    font-size: 37pt;
+}
+.nav-item {
+    font-size: 16pt;
+    font-family: "Cabin,Regular";
+}
+
+/*imagen principal*/ 
+
+    
+
+.btn {
+    background-color: transparent;
+    color: #373A3C;
+    font-size: 16pt;
+    font-family: "Cabin,Regular";
+}
+.texto-prin {
+    font-size: 40pt;
+    font-family: "Cabin,Bold";
+    
+}
+.tiempo {
+    font-size: 20pt;
+    text-align: left;
+    font-family: "Cabin,Bold";
+}
+
+/*carrusel*/
+
+
+
+/*ingredientes*/
+
+.my-3 h4 {
+    text-decoration: underline;
+    font-weight: 400;
+    color: #373A3C;
+    font-size: 25pt;
+    font-family: "Cabin,Regular";
+
+}
+.lista-ingredientes {
+    list-style: none;
+    padding: 0;
+    font-size: 20pt;
+    font-weight: 400;
+    font-family: "Cabin,Regular";
+}
+
+/*cards*/
+
+.otras-recetas {
+    font-size: 40pt;
+    font-family: "Cabin,Bold";
+}
+
+.card-title {
+    font-family: "Cabin,Bold";
+    font-size: 23pt;
+}
+
+.card-text{
+    font-size: 16pt;
+    font-family: "Cabin,Regular";
+}
+
+/*newsletter*/
+
+.newsletter {
+    background-color: #dc3545;
+}
+
+.final{
+    padding-top: 10em;
+    padding-bottom: 10em;
+} 
+
+h2 {
+    font-size: 40pt;
+    font-family: "Cabin,Bold";
+    color: #ffffff;
+}
+
+.letras {
+    font-size: 30pt;
+    font-family: "Cabin,Bold";
+}
+
+.titulo {
+    font-family: "Lobster";
+}
+
+/*footer*/
+footer {
+    font-family: "Lobster";
+    color: #ffffff;
+    background-color: #373A3C;
+    padding-top: 1em;
+    height: 5em;
+}
+
+
+
+
+
+
+
+    
+
